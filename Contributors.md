@@ -1,4 +1,5 @@
 # Contributors
+- [Amanda Ishikawa] (https://github.com/amanda808)
 - [Joseph Gibson](https://github.com/jkpgibson)
 - [saicharan] (https://github.com/saicharannivarthi)
 - [Johnny Nguyen] (https://github.com/Jokuyen)
